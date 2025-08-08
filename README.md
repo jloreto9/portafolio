@@ -37,8 +37,8 @@ Implementación en Power BI con jerarquías NIIF, KPIs clave y análisis compara
 Proceso automatizado diario mediante scripts y .bat para reducir tiempos de carga manual.
 
 📫 Conecta conmigo
-💼 LinkedIn
+💼 https://www.linkedin.com/in/jorgeloreto/
 
-📧 jorge.loreto@email.com
+📧 jloreto9@gmail.com
 
 “Los datos cuentan historias, mi trabajo es hacer que esas historias hablen claro y con impacto.”
